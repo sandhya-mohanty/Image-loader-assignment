@@ -1,0 +1,19 @@
+
+.header-image {
+  height: 100px;
+  background-color: #f8f9fa;
+  /* margin-bottom: 20px; */
+  /* align-self: center; */
+  text-align: center;
+  padding: 70px 0;
+  margin-right: 20px;
+  margin-left: 20px;
+font-size: xx-large;  
+font-weight: bold;
+}
+
+.img-fluid {
+  width: 100%;
+  height: auto;
+  border-radius: 5px;
+}
